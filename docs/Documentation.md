@@ -39,7 +39,7 @@ We will load the **Digits Dataset** from scikit-learn.
   <em>Results</em>
   <br>
   <br>
-  <img src="ex2.png" alt="something" width="500">
+  <img src="ex2.png" alt="something" width="300">
   <br>
   <em>Number Digit</em>
 </p>
