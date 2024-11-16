@@ -33,6 +33,16 @@ We will load the **Digits Dataset** from scikit-learn.
 - **Number of features for each element:** 64
 - **Feature explanation:** The features represent individual pixel intensity values from each image of a digit. The dataset consists of grayscale images of size 8x8 pixels. Each image is transformed into a vector of length 64 (8x8), where each element of the vector corresponds to the intensity value of a pixel in the image.
 
+<p align="center">
+  <img src="ex1.png" alt="something" width="500">
+  <br>
+  <em>Results</em>
+  <br>
+  <img src="ex2.png" alt="something" width="500">
+  <br>
+  <em>Digits Loaded</em>
+</p>
+
 ---
 
 ### Dimensionality Reduction with PCA📉
@@ -52,6 +62,8 @@ We will reduce the dimensionality of the data using **Principal Components Analy
 
 #### Results:
 The dimensionality of the data is reduced while retaining the main characteristics of the images.
+
+
 
 ---
 
