@@ -110,4 +110,10 @@ We will vary the number of components and the training set size and plot learnin
 #### Results:
 The results will include plots showing how the number of PCA components and the training set size affect the model's performance.
 
+<div align="center">
+
+$Error = 1 - Accuracy$
+
+</div>
+
 ---
