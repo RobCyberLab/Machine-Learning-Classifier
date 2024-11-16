@@ -65,7 +65,7 @@ We will reduce the dimensionality of the data using **Principal Components Analy
 The dimensionality of the data is reduced while retaining the main characteristics of the images.
 
 <p align="center">
-  <img src="ex2.png" alt="something" width="500">
+  <img src="ex3.png" alt="something" width="500">
   <br>
   <em>Code</em>
 </p>
