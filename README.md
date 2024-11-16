@@ -30,8 +30,9 @@ from sklearn.datasets import load_digits
 from sklearn.decomposition import PCA
 from sklearn import svm
 
----
 ```
+
+---
 
 ## Dataset📂
 The project uses the Digits Dataset from scikit-learn, which contains:
