@@ -111,7 +111,7 @@ We will vary the number of components and the training set size and plot learnin
 The results will include plots showing how the number of PCA components and the training set size affect the model's performance.
 
 <p align="center">
-  <img src="ex5.png" alt="something" width="800">
+  <img src="ex5.png" alt="something" width="700">
   <br>
   <em>Training and Validation Errors for different PCA Components</em>
 </p>
