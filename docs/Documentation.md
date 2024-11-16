@@ -73,6 +73,11 @@ We will train an **SVM classifier** on a training subset (e.g., 60% of the total
 #### Results:
 The performance of the SVM classifiers with different kernels will be displayed, and accuracy scores will be provided for each model.
 
+<p align="center">
+  <img src="ex4.png" alt="something" width="700">
+  <br>
+  <em>Accuracy</em>
+</p>
 
 <div align="center">
 
