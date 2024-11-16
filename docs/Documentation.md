@@ -73,6 +73,9 @@ We will train an **SVM classifier** on a training subset (e.g., 60% of the total
 #### Results:
 The performance of the SVM classifiers with different kernels will be displayed, and accuracy scores will be provided for each model.
 
+
+$Accuracy = \frac{\text{Number of Correct Predictions}}{\text{Total Number of Predictions}}$
+
 ---
 
 ### Varying Components and Training Set Size📊
