@@ -9,6 +9,9 @@
 ---
 
 ### Digits Dataset Loading🧮
+
+---
+
 #### Problem:
 We will load the **Digits Dataset** from scikit-learn.
 - How many elements are in the dataset?
@@ -33,6 +36,9 @@ We will load the **Digits Dataset** from scikit-learn.
 ---
 
 ### Dimensionality Reduction with PCA📉
+
+---
+
 #### Problem:
 We will reduce the dimensionality of the data using **Principal Components Analysis (PCA)**.
 
@@ -50,6 +56,9 @@ The dimensionality of the data is reduced while retaining the main characteristi
 ---
 
 ### Training an SVM Classifier🧠
+
+---
+
 #### Problem:
 We will train an **SVM classifier** on a training subset (e.g., 60% of the total data) and validate it on a validation subset.
 
@@ -67,6 +76,9 @@ The performance of the SVM classifiers with different kernels will be displayed,
 ---
 
 ### Varying Components and Training Set Size📊
+
+---
+
 #### Problem:
 We will vary the number of components and the training set size and plot learning curves based on the varied parameters.
 
