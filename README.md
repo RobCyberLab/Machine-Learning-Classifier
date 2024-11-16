@@ -67,8 +67,8 @@ y_predicted = svc.predict(x_valid)
 
 ## Running the Code▶️
 1. Load the digits dataset
-2. Apply PCA transformation (default: 8 components)
-3. Split data into training (60%) and validation sets
+2. Apply PCA transformation
+3. Split data into training and validation sets
 4. Train SVM classifier
 5. Make predictions and evaluate performance
 
