@@ -63,6 +63,8 @@ svc.fit(x_train, y_train)
 y_predicted = svc.predict(x_valid)
 ```
 
+---
+
 ## Running the Code▶️
 1. Load the digits dataset
 2. Apply PCA transformation
